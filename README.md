@@ -2,7 +2,7 @@
 
 ## Solutions to Leetcode problems in Java
 
- Solved 1900+ Problems
+ Solved 1200+ Problems
 
 Problem Category | Count
 --- | --- 
